@@ -11,11 +11,11 @@ import matplotlib.pyplot as pl
 import datetime as dt
 
 
-database="grp13_vaccinedist"  # TO BE REPLACED
-user='grp13'    # TO BE REPLACED
-password='uN(m(Xt3' # TO BE REPLACED
-host='dbcourse2022.cs.aalto.fi'
-port= '5432'
+database=""  # TO BE REPLACED
+user=''    # TO BE REPLACED
+password='' # TO BE REPLACED
+host=''
+port= ''
 
 # ***********************************
 # .Create a database for next step  *
